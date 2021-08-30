@@ -1,0 +1,13 @@
+.swiper-slide {
+    text-align: center;
+}
+.swiper-slide img {
+    width: 350px;
+}
+.swiper-button-prev,
+.swiper-button-next {
+    top: 115px;
+}
+.swiper-pagination {
+    top: 230px;
+}
